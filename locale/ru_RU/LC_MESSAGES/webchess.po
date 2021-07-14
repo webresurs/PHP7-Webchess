@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: chess\n"
+"POT-Creation-Date: 2013-12-08 19:14+0100\n"
+"PO-Revision-Date: 2021-07-14 13:35+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: C:/projects/chess/webchess\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: gettext\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: C:/projects/chess/webchess\n"
+
+msgid " - Your Move"
+msgstr "- Твой ход"
+
+msgid " - Opponent's Move"
+msgstr "- Ход противника"
+
+msgid "Start of game"
+msgstr "Начало игры"
+
+msgid "Start"
+msgstr "Начинать"
+
+msgid "Go back five halfmoves"
+msgstr "Вернитесь на пять полутонов назад"
+
+msgid "Go back one halfmove"
+msgstr "Вернитесь на полдвига"
+
+msgid "Go forward one halfmove"
+msgstr "Идти вперед на полдвига"
+
+msgid "Go forward five halfmoves"
+msgstr "Пройдите пять полумов вперед"
+
+msgid "End of game"
+msgstr "Конец игры"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "When castling, just move the king (the rook will move automatically)."
+msgstr "При рокировке просто переместите короля (ладья будет двигаться автоматически)."
+
+msgid "Captured pieces"
+msgstr "Захваченные фигуры"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "%s is Free Software released under the GNU General Public License (GPL)."
+msgstr "%s - бесплатное программное обеспечение, выпущенное под Стандартной общественной лицензией GNU (GPL)."
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомни меня"
+
+msgid "New Account"
+msgstr "Новый аккаунт"
+
+msgid "Welcome to"
+msgstr "Добро пожаловать в"
+
+msgid "Use a valid username and password to gain access."
+msgstr "Используйте действующие имя пользователя и пароль, чтобы получить доступ."
+
+msgid "%s: %s invites you to play a new game."
+msgstr "%s : %s приглашает вас сыграть в новую игру."
+
+msgid "%s has invited you to play a new game."
+msgstr "%s пригласил вас сыграть в новую игру."
+
+msgid "This message has been automatically been sent by %s and should not be replied to"
+msgstr "Это сообщение было автоматически отправлено %s и на него не следует отвечать"
+
+msgid "Go to: %s to play."
+msgstr "Перейдите к: %s чтобы играть."
+
+msgid "%s: %s moved %s on board %s."
+msgstr "%s : %s переместил %s на борт %s ."
+
+msgid "Your opponent %s has played the following move:"
+msgstr "Ваш противник %s сделал следующий ход:"
+
+msgid "It is your turn now"
+msgstr "Теперь твоя очередь"
+
+msgid "%s: %s resigns on board %s."
+msgstr "%s : %s уходит в отставку в %s ."
+
+msgid "Your oppenent %s has resigned the game on board %s."
+msgstr "Ваш противник %s отказался от игры на доске %s ."
+
+msgid "%s: Invitation withdrawn"
+msgstr "%s : приглашение отозвано"
+
+msgid "%s has withdrawn their invitation to play a new game."
+msgstr "%s отозвал приглашение сыграть в новую игру."
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Active games"
+msgstr "Активные игры"
+
+msgid "Pending challenges"
+msgstr "Незавершенные задачи"
+
+msgid "Messages"
+msgstr "Сообщения"
+
+msgid "Challenge others"
+msgstr "Бросьте вызов другим"
+
+msgid "Replay"
+msgstr "Воспроизвести"
+
+msgid "Preferences"
+msgstr "Предпочтения"
+
+msgid "Personal"
+msgstr "Личное"
+
+msgid "Reload"
+msgstr "Перезагрузить"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Personal information"
+msgstr "Персональная информация"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+msgid "New Password"
+msgstr "Новый пароль"
+
+msgid "Password Confirmation"
+msgstr "Подтверждение пароля"
+
+msgid "Update"
+msgstr "Обновлять"
+
+msgid "Here you can change your personal information. Remember to press the 'Update' button to store the changes."
+msgstr "Здесь вы можете изменить свою личную информацию. Не забудьте нажать кнопку «Обновить», чтобы сохранить изменения."
+
+msgid "History"
+msgstr "История"
+
+msgid "PGN"
+msgstr "PGN"
+
+msgid "Verbose"
+msgstr "Подробный"
+
+msgid "History Layout"
+msgstr "Макет истории"
+
+msgid "Columns (Scoresheet)"
+msgstr "Столбцы (таблица)"
+
+msgid "Paragraph"
+msgstr "Пункт"
+
+msgid " Paragraph"
+msgstr "Пункт"
+
+msgid "Beholder"
+msgstr "Beholder"
+
+msgid "GNU Chess Fancy"
+msgstr "GNU Chess Fancy"
+
+msgid "GNU Chess Simple"
+msgstr "GNU Chess Simple"
+
+msgid "Master"
+msgstr "Владелец"
+
+msgid "Auto-reload"
+msgstr "Автоматическая перезагрузка"
+
+msgid "min: "
+msgstr "мин:"
+
+msgid "secs"
+msgstr "секунды"
+
+msgid "Email notification"
+msgstr "Уведомление по электронной почте"
+
+msgid "Enter a valid email address if you would like to be notified when your opponent makes a move. Leave blank otherwise."
+msgstr "Введите действующий адрес электронной почты, если вы хотите получать уведомления, когда ваш оппонент делает ход. В противном случае оставьте поле пустым."
+
+msgid "Test Email"
+msgstr "Тестовое электронное письмо"
+
+msgid "Show just my games"
+msgstr "Покажи только мои игры"
+
+msgid "Show also games by others"
+msgstr "Показать также игры других"
+
+msgid "(Unknown)"
+msgstr "(Неизвестный)"
+
+msgid "Novice (...-1200)"
+msgstr "Новичок (...- 1200)"
+
+msgid "Occasional (1200-1800)"
+msgstr "Изредка (1200-1800)"
+
+msgid "Hobbyist (1800-2000)"
+msgstr "Любитель (1800-2000)"
+
+msgid "Expert (2000-2200)"
+msgstr "Эксперт (2000-2200)"
+
+msgid "Master (2200-...)"
+msgstr "Мастер (2200 -...)"
+
+msgid "You can customize %s with these general settings."
+msgstr "Вы можете настроить %s с помощью этих общих настроек."
+
+msgid "Issue a challenge"
+msgstr "Сделать вызов"
+
+msgid "Select Opponent"
+msgstr "Выберите оппонента"
+
+msgid "Your Color"
+msgstr "Ваш цвет"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "White"
+msgstr "белый"
+
+msgid "Black"
+msgstr "Чернить"
+
+msgid "Invite"
+msgstr "Приглашать"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Select an opponent and challenge him to a new game."
+msgstr "Выберите соперника и вызовите его в новую игру."
+
+msgid "Challenges from other players"
+msgstr "Испытания других игроков"
+
+msgid "Rank"
+msgstr "Классифицировать"
+
+msgid "Id"
+msgstr "Идентификатор"
+
+msgid "Issued"
+msgstr "Изданный"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "You are not currently invited to any games"
+msgstr "В настоящее время вы не приглашены ни в какие игры"
+
+msgid "Accept"
+msgstr "Принимать"
+
+msgid "Decline"
+msgstr "Отклонить"
+
+msgid "Pending challenges from you"
+msgstr "Ожидающие решения проблемы от вас"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "You have no current unanswered invitations"
+msgstr "У вас нет приглашений без ответа"
+
+msgid "Withdraw"
+msgstr "Отзывать"
+
+msgid "This is an overview of all your pending challenges. Accept or decline an invitation to a new game or withdraw your invitations to others."
+msgstr "Это обзор всех ваших нерешенных задач. Примите или отклоните приглашение в новую игру или отзовите свои приглашения для других."
+
+msgid "Continue a game in progress"
+msgstr "Продолжить начатую игру"
+
+msgid "Select a game"
+msgstr "Выберите игру"
+
+msgid "Games in Progress"
+msgstr "Игры в процессе"
+
+msgid "Mvs"
+msgstr "Mvs"
+
+msgid "Current Turn"
+msgstr "Текущий поворот"
+
+msgid "Start Date"
+msgstr "Дата начала"
+
+msgid "Last Move"
+msgstr "Последний ход"
+
+msgid "You do not currently have any games in progress"
+msgstr "В настоящее время у вас нет незавершенных игр"
+
+msgid "Your move"
+msgstr "Твой ход"
+
+msgid "Opponent"
+msgstr "Противник"
+
+msgid "Will both players play from the same computer?"
+msgstr "Будут ли оба игрока играть с одного компьютера?"
+
+msgid "Yes"
+msgstr "да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "WARNING!"
+msgstr "ПРЕДУПРЕЖДЕНИЕ!"
+
+msgid "Games will expire WITHOUT NOTICE if a move isn't made after"
+msgstr "Срок действия игры истекает БЕЗ УВЕДОМЛЕНИЯ, если ход не будет сделан после"
+
+msgid "days!"
+msgstr "дней!"
+
+msgid "Select a game from the list and resume play by clicking on the game id"
+msgstr "Выберите игру из списка и возобновите игру, щелкнув идентификатор игры."
+
+msgid "Send message to player"
+msgstr "Отправить сообщение игроку"
+
+msgid "Open Message Window"
+msgstr "Открыть окно сообщений"
+
+msgid "Current messages"
+msgstr "Текущие сообщения"
+
+msgid "Pending messages"
+msgstr "Ожидающие сообщения"
+
+msgid "Player"
+msgstr "Игрок"
+
+msgid "Subject"
+msgstr "Предмет"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "You have currently no pending messages"
+msgstr "В настоящее время у вас нет ожидающих сообщений"
+
+msgid "You can send and receive messages to other players here."
+msgstr "Здесь вы можете отправлять и получать сообщения другим игрокам."
+
+msgid "View finished games"
+msgstr "Посмотреть готовые игры"
+
+msgid "Select a game to view"
+msgstr "Выберите игру для просмотра"
+
+msgid "Finished games"
+msgstr "Готовые игры"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "stalemate"
+msgstr "безвыходное положение"
+
+msgid "resigned"
+msgstr "подал в отставку"
+
+msgid "Checkmate, you won!"
+msgstr "Мат, ты выиграл!"
+
+msgid "Checkmate, you lost"
+msgstr "Мат, ты проиграл"
+
+msgid "Checkmate, "
+msgstr "Шах и мат,"
+
+msgid "Finished games will be deleted WITHOUT NOTICE after"
+msgstr "Готовые игры будут удалены БЕЗ УВЕДОМЛЕНИЯ после"
+
+msgid "Select a game to view from the list by clicking on the game id"
+msgstr "Выберите игру для просмотра из списка, щелкнув идентификатор игры."
+
+msgid "Not Authorized!"
+msgstr "Не авторизован!"
+
+msgid "Create New User"
+msgstr "Создать нового пользователя"
+
+msgid "Sorry, all personal info fields are required and must be filled out."
+msgstr "К сожалению, все поля личной информации являются обязательными и должны быть заполнены."
+
+msgid "Sorry, the two password fields don't match. Please try again."
+msgstr "К сожалению, два поля пароля не совпадают. Пожалуйста, попробуйте еще раз."
+
+msgid "Nick"
+msgstr "Ник"
+
+msgid "Personal preferences"
+msgstr "Личные предпочтения"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Plain"
+msgstr "Простой"
+
+msgid "min:"
+msgstr "мин:"
+
+msgid "Register"
+msgstr "регистр"
+
+msgid "Welcome to %s!"
+msgstr "Добро пожаловать в %s !"
+
+msgid "You must remember your nick and password to be able to gain access."
+msgstr "Вы должны помнить свой ник и пароль, чтобы получить доступ."
+
+msgid "Message View"
+msgstr "Сообщение Обзор"
+
+msgid "Return to Main Menu"
+msgstr "Вернуться в главное меню"
+
+msgid " Message not found!"
+msgstr "Сообщение не найдено!"
+
+msgid "There has been an error! The message you're trying to view can't be found."
+msgstr "Произошла ошибка! Сообщение, которое вы пытаетесь просмотреть, не найдено."
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "From:"
+msgstr "Из:"
+
+msgid "Reply"
+msgstr "Отвечать"
+
+msgid "on"
+msgstr "на"
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "Message Error"
+msgstr "Сообщение Ошибка"
+
+msgid "An error ocurred!."
+msgstr "Произошла ошибка !."
